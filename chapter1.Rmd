@@ -2,3 +2,12 @@
 # About the project
 
 *Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you can use R Markdown syntax.*
+
+# Answers to questions of Chapter 1: 
+ **My feelings are happy and enthusiastic but also tired of course! ~~My attitude is good.~~**
+ 
+*I am expecting learn state-of-the-art statistical superpowers.*
+
+*I learned from the course through email. It  was propably a spam message from Yammer :D*
+
+*By the way my github repository is at:* <https://github.com/nosape/IODS-project>
